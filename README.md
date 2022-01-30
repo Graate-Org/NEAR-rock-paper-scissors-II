@@ -8,6 +8,7 @@ The flaws fixed within this smart contract are:
   - solution: restrict a non-member from creating or playing a game within a room.
 - Without making a request, a player can be added to a private room.
   - solution: check if a join-room request exists before approving a request/member
+- Added more enumeration functions to easily return necessary data to the frontend
 
 Check out these additional video content for more informtion on this rock-paper-scissor smart contract methods:
 https://loom.com/share/folder/39accbd082e44ddf99805235b2d6f4b1
