@@ -1,0 +1,1 @@
+near call $CONTRACT responseToRequest --account_id $OWNER '{"_roomId": "RM-1641850328749664819", "acct": "ikeh_akinyemi.testnet", "acceptance": true}' --gas=40000000000000

@@ -1,0 +1,1 @@
+near call $CONTRACT payout --account_id $MEMBER '{"_gameId": "GM-1641693485405469377"}'

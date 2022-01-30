@@ -1,0 +1,1 @@
+near view $CONTRACT getGame --account_id $MEMBER '{"_gameId": "GM-1641853512244587549"}'

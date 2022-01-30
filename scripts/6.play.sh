@@ -1,0 +1,1 @@
+near call $CONTRACT play --account_id $MEMBER '{"_gameId": "GM-1641853561618499870"}' --amount 0.2 --gas=40000000000000
